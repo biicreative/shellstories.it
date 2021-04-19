@@ -58,12 +58,19 @@ const Bio = () => {
           </p>
           <p>
             seguici su {` `}
-             <a target="blank" href={`https://twitter.com/${social?.twitter || ``}`}>
-               Twitter
-             </a> e {` `}
-             <a target="blank" href={`https://medium.com/${social?.medium || ``}`}>
-               Medium
-             </a>
+            <a
+              target="blank"
+              href={`https://twitter.com/${social?.twitter || ``}`}
+            >
+              Twitter
+            </a>{" "}
+            e {` `}
+            <a
+              target="blank"
+              href={`https://${social?.medium || `medium.com`}`}
+            >
+              Medium
+            </a>
           </p>
         </div>
       )}

@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import NFT from "../components/nft"
 
 const BlogIndex = ({ data }) => {
-
   const posts = data.allMarkdownRemark.nodes
 
   return (
@@ -33,10 +32,20 @@ const BlogIndex = ({ data }) => {
                   }}
                   itemProp="description"
                 />
-                { post.frontmatter.nft &&
-                  <NFT token={post.frontmatter.token} />
-                }
+                <Link to={post.fields.slug} itemProp="url">
+                  Leggi la storia...
+                </Link>
               </section>
+              <p>&nbsp;</p>
+              <footer style={{ border: `thin black dashed`, padding: `10px` }}>
+                {post.frontmatter.nft && (
+                  <NFT
+                    token={post.frontmatter.token}
+                    title={post.frontmatter.nft_title}
+                    url={post.frontmatter.nft_url}
+                  />
+                )}
+              </footer>
             </article>
           </li>
         )

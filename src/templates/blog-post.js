@@ -25,6 +25,26 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
+        {post.frontmatter.nft && (
+          <nft style={{ textAlign: `center` }}>
+            <div
+              style={{
+                marginLeft: `auto`,
+                marginRight: `auto`,
+                maxWidth: `50%`,
+              }}
+            >
+              <img
+                style={{ maxWidth: `100%` }}
+                src={post.frontmatter.nft_url}
+                alt={post.frontmatter.nft_title}
+              />
+            </div>
+            <p>
+              <strong>{post.frontmatter.nft_title}</strong>
+            </p>
+          </nft>
+        )}
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -85,6 +105,9 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        nft
+        nft_title
+        nft_url
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

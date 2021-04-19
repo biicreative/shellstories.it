@@ -3,14 +3,14 @@ title: Omne vivum ex vivo
 date: "2021-03-01T20:00:00.284Z"
 description: "Sappiamo che le prime impressioni sono importanti, quindi nella prima storia si parla di come si genera la vita e degli scienziati che l'hanno indagata attraverso il microscopio e il pensiero."
 nft: true
+nft_title: SINISTRAL SHELL
+nft_url: https://arweave.net/YLn4SHDCbsxr4z16EYszqARPA0fRuTCbhoB-eJl_nVI
 token: 1
 ---
 
-![NFT1](./nft1.jpg)
-
 Nel gennaio del 1665, Robert Hooke, che in quegli anni si stava contendendo il merito di molte teorie scientifiche sul moto e la gravità terrestri con il celebre Isaac Newton, pubblica il volume Micrographia. Vista la statura scientifica e la vastità di interessi di Hooke — oggi definito il Leonardo da Vinci inglese — non stupisce che Micrographia, in cui sono illustrate le osservazioni di Hooke con il microscopio, susciti un ampio interesse pubblico sulla nuova scienza della microscopia. Il libro è la prima importante pubblicazione della Royal Society dove, dal novembre del 1661, Hooke è stipendiato con la qualifica di curatore degli esperimenti, incarico che gli permette di svolgere ricerche scientifiche a tempo pieno. La Royal Society è stata fondata solo un anno prima, esattamente il 28 novembre 1660, come associazione con lo scopo di promuovere la ricerca scientifica attraverso il metodo sperimentale, la prima al mondo di questo tipo, e i suoi membri si riuniscono settimanalmente presso il Gresham College per discutere gli esperimenti proposti ed elaborati da Robert Hooke.
 
-`Proponendo queste nuove immagini di semi, muschi e pulci, Hooke dimostra ai suoi contemporanei la necessità di avvalersi di nuovi strumenti artificiali, come il microscopio o il telescopio, per riuscire a cogliere l'intera complessità del mondo naturale.`
+> Proponendo queste nuove immagini di semi, muschi e pulci, Hooke dimostra ai suoi contemporanei la necessità di avvalersi di nuovi strumenti artificiali, come il microscopio o il telescopio, per riuscire a cogliere l'intera complessità del mondo naturale.
 
 Una fascinazione, si potrebbe dire, visto che le osservazioni che consentono questi primi strumenti sono di bassa qualità - le immagini catturate dal microscopio di Hooke sono molto scure e instabili - tanto che le illustrazioni che realizza sono il risultato di molte differenti osservazioni e deduzioni, con un carattere divulgativo piuttosto che rigorosamente scientifico. Questo, non toglie nulla al significato immenso del lavoro di Hooke, che oltretutto nel libro, utilizza per primo il termine cellula. Hooke chiama così le cavità separate da pareti che vede al microscopio osservando la struttura del sughero, notando la somiglianza di questi spazi "vuoti" con le celle dei monaci e la tipica forma a nido d'ape, in latino rispettivamente: cella e cellulae.
 
@@ -22,7 +22,7 @@ Londra, ottobre 1676. Sono passati 11 anni dalla pubblicazione di Micrographia d
 
 Leeuwenhoek, incuriosito da lenti e microscopi fin dal 1648 quando aveva avuto l'occasione di usarne uno per analizzare dei tessuti, ad Amsterdam, aveva imparato a molare le lenti riuscendo infine ad assemblare il suo "unico" microscopio, con il quale è in grado di osservare, per primo, il movimento dei protozoi nelle gocce di acqua piovana. Il microscopio che utilizza non ha nulla di straordinario, se non il fatto di avere potentissime lenti di ingrandimento.
 
-`Con un ingrandimento di 270 volte, rispetto ai comuni valori di 50x degli altri microscopi in circolazione, Leeuwenhoek può vedere ciò che gli altri scienziati possono solo immaginare e ciò che Hooke, nella fattispecie, non ha potuto vedere delle sue cellule.`
+> Con un ingrandimento di 270 volte, rispetto ai comuni valori di 50x degli altri microscopi in circolazione, Leeuwenhoek può vedere ciò che gli altri scienziati possono solo immaginare e ciò che Hooke, nella fattispecie, non ha potuto vedere delle sue cellule.
 
 Le osservazioni documentate nella lettera e anticipate da altre osservazioni diffuse negli anni precedenti da Leeuwenhoek trovano naturalmente lo scetticismo dei membri della Royal Society. Sarà proprio Robert Hooke, che con Micrographia aveva ispirato Leeuwenhoek, a confermare sperimentalmente le scoperte di quest'ultimo. Le umili origini di Leeuwenhoek e il fatto di parlare solo l'olandese, non gli impediranno nel 1680 di diventare a pieni titoli membro della Royal Society. Sarà onorato da questa prestigiosa nomina, ma Leeuwenhoek non parteciperà comunque ad alcuna riunione né imparerà mai l'inglese o il latino. Vivrà stabilmente nella sua casa/laboratorio di Delft, continuando ad osservare il mondo attraverso i suoi microscopi. Le personalità più importanti dell'epoca gli faranno visita. Leeuwenhoek, da buon mercante, non rivelerà mai le caratteristiche dei sui microscopi. Neanche allo zar Pietro il grande di Russia, che curioso di vedere le prodigiose lenti, dovrà accontentarsi di vederne alcune di media qualità e solo nel 1698 ricevere in dono dallo scienziato una specifica lente con cui osservare la circolazione sanguigna nei capillari.
 
@@ -34,7 +34,7 @@ Francesco Bonanni, padre gesuita, nel 1681 pubblica "Ricreatione dell'occhio e d
 
 Bonanni come Hooke, che nelle sue prime osservazioni al microscopio non potè vedere i microorganismi all'opera, quando si tratta di descrivere la riproduzione di queste forme di vita sostiene la teoria più comune all'epoca: la "generazione spontanea". Questa teoria, accettata dai tempi di Aristotele che l'aveva inaugurata riferendosi ad esempio alla comparsa di animali da ambienti precedentemente privi di tali specie, come l'improvvisa presenza di piccoli pesci in una nuova pozza d'acqua. Secondo questa teoria la vita potrebbe nascere in modo "spontaneo" dagli elementi naturali inanimati, in quanto comunque dotati di influssi vitali.
 
-`I molluschi con le loro conchiglie potrebbero nascere dalle rocce, così gli insetti dal fango.`
+> I molluschi con le loro conchiglie potrebbero nascere dalle rocce, così gli insetti dal fango.
 
 Bonanni in particolar modo si ispira ad un altro gesuita, Athanasius Kircher. Kircher aveva vasti interessi intellettuali tra cui un interesse per la tecnologia, tanto da essere considerato uno dei primi ad aver utilizzato un microscopio. Già nel 1646 Kircher scrive “Per quanto riguarda la meravigliosa struttura delle cose in natura, indagata con il microscopio [...] chi potrebbe credere che l'aceto e il latte abbondino di una moltitudine innumerevole di vermi”. Kircher definisce i microrganismi che osserva come "vermi". Fu probabilmente il primo a sostenere che la malattia e la putrefazione fossero causate dalla presenza di corpi viventi invisibili, tanto che indagando al microscopio il sangue delle vittime della peste bubbonica, che colpì Roma nel 1656, notò la presenza di questi piccoli “vermi” concludendo che la malattia era causata da questi microrganismi. Kircher fu il primo ad attribuire la malattia infettiva ai germi che, sempre secondo lui, potevano entrare in circolazione nel sistema sanguigno.
 
@@ -50,7 +50,7 @@ Un altro padre gesuita, Lazzaro Spallanzani, un secolo dopo Kirchner e Bonanni v
 
 Spallanzani, futuro rettore dell'Università di Pavia, capisce che la vera questione da approfondire è la sterilizzazione. Nel febbraio del 1776 utilizza 19 infusori - microrganismi così definiti dal microscopista tedesco Ledermuller - diversi e per la prima volta nella storia scientifica determina la loro resistenza al calore.
 
-`Spallanzani stabilisce un legame tra il tempo di ebollizione e la sopravvivenza microbica: dopo 45 minuti e oltre, in nessuna delle infusioni riscontra più alcun sviluppo microbico.`
+> Spallanzani stabilisce un legame tra il tempo di ebollizione e la sopravvivenza microbica: dopo 45 minuti e oltre, in nessuna delle infusioni riscontra più alcun sviluppo microbico.
 
 La sterilizzazione, che di per sé ha un valore enorme in ambito medico-scientifico, è innanzitutto la condizione indispensabile per confutare l'esperimento di Needham e più in generale la teoria della generazione spontanea. Spallanzani ripete infatti l'esperimento di Needham con questa arma scientifica in più e verifica che in nessuno degli infusori chiusi ermeticamente e sterilizzati si sviluppano microrganismi.
 
@@ -69,8 +69,10 @@ Nel 1860, Pasteur, non ancora membro dell'accademia di scienze, propose un esper
 
 Louis Pasteur, interessato principalmente a comprendere i microrganismi presenti nell'aria più che al tema in sé della della generazione spontanea, riesce in questo modo a confutare la teoria tanto discussa: se i microrganismi sono già nell'aria non devono generarsi in altri materiali, spontaneamente o meno.
 
-`In pratica Pasteur sostiene che gli organismi che crescevano nelle infusioni di Needham e Spallanzani erano sempre dovuti al contatto con l'ambiente esterno e che non c'è circostanza nota in cui si possa confermare che esseri microscopici siano venuti al mondo senza germi, senza genitori simili a loro. `
+> In pratica Pasteur sostiene che gli organismi che crescevano nelle infusioni di Needham e Spallanzani erano sempre dovuti al contatto con l'ambiente esterno e che non c'è circostanza nota in cui si possa confermare che esseri microscopici siano venuti al mondo senza germi, senza genitori simili a loro.
 
-Lo scienziato dimostra così ciò che era stato teorizzato nel 1858 da Rudolf Virchow nella teoria cellulare alla base di tutti i viventi: ogni cellula nasce da un'altra cellula preesistente. A Pasteur sarà attribuita la teoria, nota come "biogenesi", che sostiene che la vita non possa continuamente rigenerarsi da organismi non animati, come invece afferma la teoria della generazione spontanea, sintetizzata dalla frase in latino "Omne vivum ex vivo", ogni vivente (deriva) da un vivente.
+Lo scienziato dimostra così ciò che era stato teorizzato nel 1858 da Rudolf Virchow nella teoria cellulare alla base di tutti i viventi: ogni cellula nasce da un'altra cellula preesistente. A Pasteur sarà attribuita la teoria, nota come "biogenesi", che sostiene che la vita non possa continuamente rigenerarsi da organismi non animati, come invece afferma la teoria della generazione spontanea, sintetizzata dalla frase in latino **"Omne vivum ex vivo"**, ogni vivente (deriva) da un vivente.
 
 Pasteur grazie alle sue scoperte e alla sua attività di ricerca sarà universalmente considerato il fondatore della moderna microbiologia. Morirà il 28 settembre 1895 vicino a Parigi.
+
+Leggi anche [A caccia di microbi](https://medium.com/shellstories/a-caccia-di-germi-1d2aae91b665).

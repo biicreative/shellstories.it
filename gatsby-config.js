@@ -1,4 +1,4 @@
-const siteUrl = "https://shellstories.it";
+const siteUrl = "https://shellstories.it"
 
 module.exports = {
   siteMetadata: {
@@ -10,7 +10,7 @@ module.exports = {
     siteUrl: siteUrl,
     social: {
       twitter: `biicreative`,
-      medium: `shellstories`
+      medium: `medium.shellstories.it`,
     },
   },
   plugins: [
@@ -35,7 +35,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 480,
+              showCaptions: true,
+              markdownCaptions: true,
+              wrapperStyle: "text-align:center;",
             },
           },
           {
@@ -66,9 +69,9 @@ module.exports = {
         short_name: `Shell Stories`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#ffffff`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile-pic.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -89,7 +92,8 @@ module.exports = {
                   slug
                 }
                 frontmatter {
-                  title
+                  nft_title
+                  nft_url
                   date
                   token
                 }
@@ -97,13 +101,15 @@ module.exports = {
             }
           }
         `,
-        serialize: results => results.data.allMarkdownRemark.nodes.map(node => ({
-          path: node.fields.slug, // MUST contain a path
-          token: node.frontmatter.token,
-          name: node.frontmatter.title,
-          created: node.frontmatter.date
-        })),
-      }
-    }
+        serialize: results =>
+          results.data.allMarkdownRemark.nodes.map(node => ({
+            path: node.fields.slug, // MUST contain a path
+            token: node.frontmatter.token,
+            name: node.frontmatter.nft_title,
+            url: node.frontmatter.nft_url,
+            created: node.frontmatter.date,
+          })),
+      },
+    },
   ],
 }
